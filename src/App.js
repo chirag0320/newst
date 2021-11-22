@@ -1,5 +1,5 @@
 import Home from './pages/Home.js';
-import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
+import {HashRouter as Router,Routes,Route} from 'react-router-dom'
 import ImageGallaryComponent from './pages/image-gallery.component';
 import Newtry from './pages/Newtry.js';
 
